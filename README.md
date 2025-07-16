@@ -80,7 +80,7 @@ Confusion matrix and classification report included for detailed performance ana
 
 🔧 Clone the Repository
 
-git clone https://github.com/Noel-Lawrence-2004/Language-Detector.git
+git clone [https://github.com/Noel-Lawrence-2004/Language-Detector.git](https://github.com/Noel-Lawrence-2004/Language-Detector)
 
 ## 📦 Install Dependencies
 
