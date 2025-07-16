@@ -64,29 +64,21 @@ lang_predict("سيكون اليوم مشغولاً للغاية...")
 ```
 
 📈 Accuracy
-Achieved an accuracy of over X% (replace with your actual score) on test data.
+Achieved an accuracy of over 97% on test data.
+The model demonstrates high reliability in identifying multiple languages across different scripts.
+
 Confusion matrix and classification report included for detailed performance analysis.
 
 🖼️ Visualizations
 🔹 Confusion Matrix
+<img src="assets/confusion_matrix.png" alt="Confusion Matrix" width="600"/>
 
 📥 Installation & Running
+🔧 Clone the Repository
+git clone https://github.com/Noel-Lawrence-2004/Language-Detector.git
 
-# Clone the repository
-git clone https://github.com/yourusername/language-detector-naive-bayes.git
-cd language-detector-naive-bayes
-
-# Install dependencies (optional)
+📦 Install Dependencies
 pip install -r requirements.txt
 
-# Run the main script
-python lang_detector.py
-📁 Folder Structure
-
-language-detector/
-├── lang_detector.py         # Main script
-├── text_language.csv        # Dataset
-├── assets/
-│   └── confusion_matrix.png
-├── README.md
-└── requirements.txt
+▶️ Run the Script
+python Language_detector.ipynb
