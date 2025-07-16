@@ -74,7 +74,7 @@ Confusion matrix and classification report included for detailed performance ana
 
 🔹 Confusion Matrix
 
-<img src="assets/confusion_matrix.png" alt="Confusion Matrix" width="600"/>
+<img src="assets/Confusion_matrix.png" alt="Confusion Matrix" width="600"/>
 
 ## 📥 Installation & Running
 
