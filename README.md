@@ -63,22 +63,29 @@ lang_predict("سيكون اليوم مشغولاً للغاية...")
 # Output: Arabic
 ```
 
-📈 Accuracy
+## 📈 Accuracy
+
 Achieved an accuracy of over 97% on test data.
 The model demonstrates high reliability in identifying multiple languages across different scripts.
 
 Confusion matrix and classification report included for detailed performance analysis.
 
-🖼️ Visualizations
+## 🖼️ Visualizations
+
 🔹 Confusion Matrix
+
 <img src="assets/confusion_matrix.png" alt="Confusion Matrix" width="600"/>
 
-📥 Installation & Running
+## 📥 Installation & Running
+
 🔧 Clone the Repository
+
 git clone https://github.com/Noel-Lawrence-2004/Language-Detector.git
 
-📦 Install Dependencies
+## 📦 Install Dependencies
+
 pip install -r requirements.txt
 
-▶️ Run the Script
+## ▶️ Run the Script
+
 python Language_detector.ipynb
