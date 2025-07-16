@@ -61,3 +61,32 @@ lang_predict("आज का दिन बहुत व्यस्त रहन�
 
 lang_predict("سيكون اليوم مشغولاً للغاية...")
 # Output: Arabic
+```
+
+📈 Accuracy
+Achieved an accuracy of over X% (replace with your actual score) on test data.
+Confusion matrix and classification report included for detailed performance analysis.
+
+🖼️ Visualizations
+🔹 Confusion Matrix
+
+📥 Installation & Running
+
+# Clone the repository
+git clone https://github.com/yourusername/language-detector-naive-bayes.git
+cd language-detector-naive-bayes
+
+# Install dependencies (optional)
+pip install -r requirements.txt
+
+# Run the main script
+python lang_detector.py
+📁 Folder Structure
+
+language-detector/
+├── lang_detector.py         # Main script
+├── text_language.csv        # Dataset
+├── assets/
+│   └── confusion_matrix.png
+├── README.md
+└── requirements.txt
